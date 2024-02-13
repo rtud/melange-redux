@@ -3,6 +3,7 @@
     "displayName": "Melange Redux",
     "description": "A slightly tweaked port of the Melange nvim color scheme by https://github.com/savq/",
     "publisher": "rtud",
+    "license": "MIT",
     "icon": "icon.png",
     "keywords":[
         "Theme",
@@ -16,7 +17,10 @@
         "type": "git",
         "url": "https://github.com/rtud/melange-redux"
     },
-    "version": "0.0.1",
+    "bugs": {
+        "url": "https://github.com/rtud/melange-redux/issues"
+    },
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.86.0"
     },
