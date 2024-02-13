@@ -3,6 +3,7 @@
     "displayName": "Melange Redux",
     "description": "A slightly tweaked port of the Melange nvim color scheme by https://github.com/savq/",
     "publisher": "rtud",
+    "icon": "icon.png",
     "keywords":[
         "Theme",
         "Light",
