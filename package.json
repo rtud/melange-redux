@@ -1,0 +1,34 @@
+{
+    "name": "melange-redux",
+    "displayName": "Melange Redux",
+    "description": "A slightly tweaked port of the Melange nvim color scheme by https://github.com/savq/",
+    "publisher": "rtud",
+    "keywords":[
+        "Theme",
+        "Light",
+        "Light Theme",
+        "Warm Theme",
+        "Editor Theme",
+        "Color Scheme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rtud/melange-redux"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.86.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Melange Redux: Light",
+                "uiTheme": "vs",
+                "path": "./themes/melange-redux-light-color-theme.json"
+            }
+        ]
+    }
+}
