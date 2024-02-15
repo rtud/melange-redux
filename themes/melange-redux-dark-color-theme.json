@@ -1408,7 +1408,9 @@
         "punctuation.support.type.property-name.begin.json.comments",
         "punctuation.support.type.property-name.end.json.comments",
         "meta.brace.round",
-        "keyword.operator.ternary"
+        "meta.shebang.shell",
+        "keyword.operator.ternary",
+        "punctuation.definition.comment.shebang"
       ],
       "settings": {
         "foreground": "#d47766",
