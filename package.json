@@ -1,7 +1,7 @@
 {
     "name": "melange-redux",
     "displayName": "Melange Redux",
-    "description": "A slightly tweaked VS Code port of the wonderful Melanger nvim color scheme by savq.",
+    "description": "A slightly tweaked VS Code port of the wonderful Melange nvim color scheme by savq.",
     "publisher": "rtud",
     "license": "MIT",
     "icon": "icon.png",
@@ -23,7 +23,7 @@
     "maintainers": [
         "rtud (https://github.com/rtud"
     ],
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.86.0"
     },
