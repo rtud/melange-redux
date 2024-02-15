@@ -20,6 +20,9 @@
     "bugs": {
         "url": "https://github.com/rtud/melange-redux/issues"
     },
+    "maintainers": [
+        "rtud (https://github.com/rtud"
+    ],
     "version": "0.1.0",
     "engines": {
         "vscode": "^1.86.0"
