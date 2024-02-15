@@ -215,7 +215,7 @@
     "statusBarItem.warningBackground": "#ebc06d",
     "statusBarItem.warningForeground": "#292522",
     "titleBar.activeBackground": "#523C3A",
-    "titleBar.inactiveBackground": "#867462",
+    "titleBar.inactiveBackground": "#34302c",
     "titleBar.activeForeground": "#ece1d7",
     "titleBar.inactiveForeground": "#c1a78e",
     "gitDecoration.ignoredResourceForeground": "#a0a0a0",
