@@ -46,7 +46,7 @@
         "editorHoverWidget.border": "#a98a78",
         "editorHoverWidget.foreground": "#54433a",
         "editorHoverWidget.highlightForeground": "#e9e1db",
-        "editorHoverWidget.statusBarBackground": "#54433a",
+        "editorHoverWidget.statusBarBackground": "#f4f0ed",
         "editorCommentsWidget.rangeBackground": "#bc5c0025",
         "editorCommentsWidget.resolvedBorder": "#a98a78",
         "editorCommentsWidget.unresolvedBorder": "#bc5c00",
