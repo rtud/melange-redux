@@ -10,6 +10,10 @@ A slightly tweaked VS Code port of the wonderful `nvim` color scheme called [Mel
 ### Melange Redux: Dark
 ![Screenshot of the dark theme in action](screenshot-dark.png)
 
+## Download
+- Get it from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=rtud.melange-redux)
+- or using the extension ID: `rtud.melange-redux`
+
 ## Additional information
 
 ### Auto switch between Light and Dark modes based on OS setting
